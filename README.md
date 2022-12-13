@@ -10,14 +10,12 @@
   <br/>
 </p>
 
-<!--
-<h3 align="center">📝 About me 📝</h3>
+<h3 align="center">📖 Educated & Worked 📖</h3>
 <p align="center">
-  I was educated in UNIST and UC Berkeley as Physics, CS major.<br/>
-  I worked in Naver GLACE as a software intern.<br/>
-  I'm participating in Naver AI Tech Boostcamp as NLP track.<br/>
+  <img src="https://img.shields.io/badge/Naver Glace-11B48A?style=flat&logo=Naver&logoColor=03C75A"/></a>&nbsp
+  <img src="https://img.shields.io/badge/UNIST-02A9FF?style=flat&logo=UNIST&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UC Berkeley-FF9900?style=flat&logo=UC Berkeley&logoColor=white"/>
 </p>
--->
 
 <h3 align="center">🍍 Front Tech Stack 🍍</h3>
 <p align="center">
