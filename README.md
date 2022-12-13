@@ -5,8 +5,8 @@
 <h2 align="center"> Hello👋, I'm Jinmyeong!</h2>
 <h3 align="center">I am junior developer who love Frontend and NLP</h3>
 <p align="center">
-  <a href="https://velog.io/@cramming"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-  <a href="https://impartial-arch-218.notion.site/An-Jinmyeong-88b81784e7f24d4f93c81493e0063162"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+   <a href="https://impartial-arch-218.notion.site/An-Jinmyeong-88b81784e7f24d4f93c81493e0063162"><img src="https://img.shields.io/badge/CV-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://velog.io/@cramming"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   <br/>
 </p>
 
